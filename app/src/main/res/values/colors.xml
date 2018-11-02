@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    //Color act Search result.
+    <color name="colorToolbar">#ff7676</color>
+    <color name="colorEdittextSearch">#ff8e8e</color>
+    <color name="colorTextSearch">#ffffff</color>
+    <color name="colorTextAdd">#49CE48</color>
+    //Color item Recyclview search
+    <color name="colorTextProductName">#000000</color>
+</resources>

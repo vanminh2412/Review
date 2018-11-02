@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Revier</string>
+
+    //string act Search
+    <string name="hint_search">Type product name</string>
+    <string name="result_null">Not my desire</string>
+    <string name="adnew">Add New!</string>
+
+    //string item recylview search
+    <string name="product_name">Product Name</string>
+
+    //string act setting
+    <string name="tvsetting">Setting</string>
+    <string name="tvussername">Adam Evan</string>
+    <string name="view">Result sorted</string>
+    <string name="curent">Currency</string>
+    <string name="language">Language</string>
+</resources>
